@@ -58,6 +58,7 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
 *   [LNAI](https://github.com/KrystianJonca/lnai) - Unified AI configuration management CLI. Define once in `.ai/`, sync to Cursor, VS Code, and more.
 *   [CoreX](https://github.com/sm0lvoicc/CoreX) - Multi-purpose Discord bot with modular command categories.
 *   [Stitch](https://stitch.withgoogle.com/) - Google's AI-powered UI design tool that transforms prompts into designs and code.
+*   [GitHub Spec Kit](https://github.com/github/spec-kit) - Spec-Driven Development (SDD) toolkit for defining and generating code from specifications.
 
 ### Enterprise AI
 *   [Gemini for Work](https://cloud.google.com/ai/gemini-for-work) - AI-powered features for Google Workspace, including automatic note-taking and summaries.
@@ -81,6 +82,18 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
 ### Courses
 *   [Fast.ai](https://course.fast.ai/) - Practical Deep Learning for Coders.
 *   [DeepLearning.AI](https://www.deeplearning.ai/) - AI education for everyone.
+*   [LLM Agents MOOC](https://llmagents-learning.org/f24) - UC Berkeley's course on Large Language Model Agents.
+*   [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Hands-on guide to prompting.
+
+### Research Papers
+*   [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - The seminal paper introducing the Transformer architecture.
+*   [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) - Efficient fine-tuning method.
+*   [FlashAttention](https://arxiv.org/abs/2205.14135) - Fast and memory-efficient exact attention.
+*   [Chinchilla](https://arxiv.org/abs/2203.15556) - Training Compute-Optimal Large Language Models (Scaling Laws).
+*   [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437) - Architecture and training details of the MoE model.
+*   [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) - The paper that popularized CoT.
+*   [DPO: Direct Preference Optimization](https://arxiv.org/abs/2305.18290) - Stable alternative to RLHF.
+*   [The 2025 AI Engineering Reading List](https://www.latent.space/p/2025-papers) - Curated list of 50+ essential papers for AI Engineers (Latent Space).
 
 ## Community
 
