@@ -11,6 +11,8 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
   - [Inference Engines](#inference-engines)
   - [Orchestration](#orchestration)
   - [Agents](#agents)
+  - [Development Tools](#development-tools)
+  - [Enterprise AI](#enterprise-ai)
 - [Computer Vision](#computer-vision)
   - [Image Generation](#image-generation)
   - [Video Generation](#video-generation)
@@ -49,10 +51,18 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
 *   [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 *   [Clawd](https://github.com/clawdbot/clawd) - The autonomous agent framework.
 *   [OpenClaw](https://openclaw.ai/) - Personal AI assistant that runs locally on user devices (formerly Clawdbot/Moltbot). [GitHub](https://github.com/openclaw/openclaw).
+*   [Jules](https://jules.google) - Google's proactive, autonomous coding agent that integrates with your repositories.
+*   [Codex CLI](https://developers.openai.com/codex/cli/) - OpenAI's coding agent that runs locally from your terminal.
+*   [Claude Cowork](https://claude-cowork.net/) - AI coworker for task automation, workflow execution, and file management.
 
 ### Development Tools
 *   [LNAI](https://github.com/KrystianJonca/lnai) - Unified AI configuration management CLI. Define once in `.ai/`, sync to Cursor, VS Code, and more.
 *   [CoreX](https://github.com/sm0lvoicc/CoreX) - Multi-purpose Discord bot with modular command categories.
+*   [Stitch](https://stitch.withgoogle.com/) - Google's AI-powered UI design tool that transforms prompts into designs and code.
+
+### Enterprise AI
+*   [Gemini for Work](https://cloud.google.com/ai/gemini-for-work) - AI-powered features for Google Workspace, including automatic note-taking and summaries.
+*   [Gemini Enterprise](https://cloud.google.com/gemini-enterprise) - Enterprise-grade AI platform connecting company data with agents and workflows.
 
 ## Computer Vision
 
