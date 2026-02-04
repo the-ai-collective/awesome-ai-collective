@@ -49,7 +49,6 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
 
 ### Agents
 *   [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-*   [Clawd](https://github.com/clawdbot/clawd) - The autonomous agent framework.
 *   [OpenClaw](https://openclaw.ai/) - Personal AI assistant that runs locally on user devices (formerly Clawdbot/Moltbot). [GitHub](https://github.com/openclaw/openclaw).
 *   [Jules](https://jules.google) - Google's proactive, autonomous coding agent that integrates with your repositories.
 *   [Codex CLI](https://developers.openai.com/codex/cli/) - OpenAI's coding agent that runs locally from your terminal.
