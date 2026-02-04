@@ -25,6 +25,8 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
   - [Courses](#courses)
   - [Research Papers](#research-papers)
 - [Community](#community)
+  - [Discord](#discord)
+  - [Events](#events)
 
 ---
 
@@ -46,6 +48,11 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
 ### Agents
 *   [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 *   [Clawd](https://github.com/clawdbot/clawd) - The autonomous agent framework.
+*   [OpenClaw](https://openclaw.ai/) - Personal AI assistant that runs locally on user devices (formerly Clawdbot/Moltbot). [GitHub](https://github.com/openclaw/openclaw).
+
+### Development Tools
+*   [LNAI](https://github.com/KrystianJonca/lnai) - Unified AI configuration management CLI. Define once in `.ai/`, sync to Cursor, VS Code, and more.
+*   [CoreX](https://github.com/sm0lvoicc/CoreX) - Multi-purpose Discord bot with modular command categories.
 
 ## Computer Vision
 
@@ -65,6 +72,14 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
 ### Courses
 *   [Fast.ai](https://course.fast.ai/) - Practical Deep Learning for Coders.
 *   [DeepLearning.AI](https://www.deeplearning.ai/) - AI education for everyone.
+
+## Community
+
+### Discord
+*   [Claude Code Community](https://claudecode.community/) - Community for Claude Code developers and enthusiasts.
+
+### Events
+*   [Claude Community Events](https://luma.com/claudecommunity) - Global events hosted by Claude Community members.
 
 ---
 
