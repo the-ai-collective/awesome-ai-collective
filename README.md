@@ -58,6 +58,9 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
 *   [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-agent financial trading framework (Analysts, Traders, Risk Managers).
 *   [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible to AI agents via natural language.
 *   [AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Automated job application agent (Auto-Apply).
+*   [smolagents](https://github.com/huggingface/smolagents) - Barebones library for agents that think in code (Python snippets actions).
+*   [OpenManus](https://github.com/mannaandpoem/OpenManus) - Open-source implementation of the Manus AI agent concept (Dockerized).
+*   [Pi Coding Agent](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent) - Minimal, opinionated coding agent CLI and unified LLM API.
 
 ### Development Tools
 *   [LNAI](https://github.com/KrystianJonca/lnai) - Unified AI configuration management CLI. Define once in `.ai/`, sync to Cursor, VS Code, and more.
@@ -68,6 +71,8 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
 *   [Anthropic Skills](https://github.com/anthropics/skills) - Official reference collection of agent skills (computer use, bash, etc.).
 *   [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) - Official reference servers for safe LLM access to local resources.
 *   [Claude Code Local Override](https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/) - Guide: Connect Claude Code CLI to local OSS models.
+*   [AionUi](https://github.com/iOfficeAI/AionUi) - Cross-platform GUI for command-line AI agents (Gemini CLI, Claude Code).
+*   [AgentOps](https://github.com/AgentOps-AI/agentops) - Observability SDK for AI agent monitoring, cost tracking, and replay analytics.
 
 ### Enterprise AI
 *   [Gemini for Work](https://cloud.google.com/ai/gemini-for-work) - AI-powered features for Google Workspace, including automatic note-taking and summaries.
@@ -79,12 +84,19 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
 *   [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI.
 *   [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI.
 
+### Video Generation
+*   [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - Largest open-source video generation model (13B params).
+
 ## Infrastructure
 
 ### Vector Databases
 *   [Pinecone](https://www.pinecone.io/) - The vector database for machine learning.
 *   [Weaviate](https://github.com/weaviate/weaviate) - Open-source vector search engine.
 *   [Qdrant](https://github.com/qdrant/qdrant) - Vector Similarity Search Engine with extended filtering support.
+
+### Agent Memory
+*   [Memori](https://github.com/MemoriLabs/Memori) - SQL-native memory layer for LLMs (Long-term recall, user preferences).
+*   [E2B](https://github.com/e2b-dev/E2B) - Secure cloud sandboxes for AI agents (Code execution environment).
 
 ## Learning
 
