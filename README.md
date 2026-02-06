@@ -40,16 +40,23 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
 
 ### Inference Engines
 *   [llama.cpp](https://github.com/ggerganov/llama.cpp) - Inference of LLaMA models in pure C/C++.
-*   [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
+*   [vLLM](https://github.com/vllm-project/vllm) ⭐69.6k - Industry standard for memory-efficient LLM serving via PagedAttention. Python / C++ / CUDA.
 *   [Ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+*   [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - NVIDIA's optimized LLM inference with state-of-the-art GPU performance. Python / C++.
+*   [Microsoft BitNet](https://github.com/microsoft/BitNet) - Official 1-bit LLM inference framework with extreme efficiency. Python / C++.
+*   [MLC-LLM](https://github.com/mlc-ai/mlc-llm) - Universal LLM deployment with ML compilation for cross-platform execution. Python / Rust.
 
 ### Orchestration
 *   [LangChain](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
 *   [LlamaIndex](https://github.com/run-llama/llama_index) - Data framework for LLM applications.
 *   [GraphRAG](https://github.com/microsoft/graphrag) - Modular graph-based Retrieval-Augmented Generation (RAG) system by Microsoft.
+*   [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) ⭐78k - Standardized protocol connecting LLMs with tools and context. TypeScript / Python.
+*   [Microsoft MCP Servers](https://github.com/microsoft/mcp) - Official Microsoft MCP implementations for AI data access and tool integration. TypeScript / Python.
 
 ### Agents
 *   [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+*   [Microsoft AutoGen](https://github.com/microsoft/autogen) ⭐54k - Event-driven multi-agent framework with distributed execution. Python.
+*   [Agent-S](https://github.com/simular-ai/Agent-S) - Open framework using computers like a human via Agent-Computer Interface. Python.
 *   [OpenClaw](https://openclaw.ai/) - Personal AI assistant that runs locally on user devices (formerly Clawdbot/Moltbot). [GitHub](https://github.com/openclaw/openclaw).
 *   [Jules](https://jules.google) - Google's proactive, autonomous coding agent that integrates with your repositories.
 *   [Codex CLI](https://developers.openai.com/codex/cli/) - OpenAI's coding agent that runs locally from your terminal.
