@@ -103,10 +103,20 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
 *   [Hugging Face Agents Course](https://github.com/huggingface/agents-course) - Comprehensive, free course on building AI Agents (smolagents, LangGraph).
 
 ### Research Papers
+
+#### Foundation & Architecture
 *   [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - The seminal paper introducing the Transformer architecture.
+*   [Chinchilla](https://arxiv.org/abs/2203.15556) - Training Compute-Optimal Large Language Models (Scaling Laws).
+
+#### Efficiency & Optimization
 *   [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) - Efficient fine-tuning method.
 *   [FlashAttention](https://arxiv.org/abs/2205.14135) - Fast and memory-efficient exact attention.
-*   [Chinchilla](https://arxiv.org/abs/2203.15556) - Training Compute-Optimal Large Language Models (Scaling Laws).
+*   [QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models](https://arxiv.org/abs/2310.16795) - MoE quantization achieving sub-1-bit compression.
+*   [MxMoE: Mixed-precision Quantization for MoE](https://github.com/Kai-Liu001/Awesome-Model-Quantization) - Accuracy + performance co-design (ICML 2025).
+
+#### Agentic Reasoning
+*   [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538) - Comprehensive survey on agentic reasoning paradigms (Jan 2026).
+*   [Reasoning RAG via System 1 or System 2](https://arxiv.org/abs/2506.10408) - Survey on reasoning agentic RAG for industry (Jun 2025).
 *   [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437) - Architecture and training details of the MoE model.
 *   [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) - The paper that popularized CoT.
 *   [DPO: Direct Preference Optimization](https://arxiv.org/abs/2305.18290) - Stable alternative to RLHF.
