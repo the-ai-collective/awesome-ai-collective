@@ -145,7 +145,7 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
 *   [The AI Collective Discord](https://discord.gg/aicollective) - 150,000+ AI pioneers, founders, researchers, operators, and investors.
 
 ### Events
-*   [The AI Collective Events](https://lu.ma/genai-collective) - Global AI meetups in 50+ cities. Topics: v0 workshops, RAG models, AI automation, real estate x AI, consultants workshops.
+*   [The AI Collective Events](https://lu.ma/genai-collective) - Global AI meetups in 50+ cities.
 *   [Claude Community Events](https://luma.com/claudecommunity) - Global events hosted by Claude Community members.
 
 ---
