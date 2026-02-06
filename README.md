@@ -71,6 +71,11 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
 *   [CoreX](https://github.com/sm0lvoicc/CoreX) - Multi-purpose Discord bot with modular command categories.
 *   [Stitch](https://stitch.withgoogle.com/) - Google's AI-powered UI design tool that transforms prompts into designs and code.
 *   [GitHub Spec Kit](https://github.com/github/spec-kit) - Spec-Driven Development (SDD) toolkit for defining and generating code from specifications.
+*   [Cursor](https://cursor.com/) - AI-first IDE with multi-file context awareness and <320ms rapid prototyping (2026).
+*   [Replit Agent v3](https://replit.com/) - 10x autonomous browser-based coding with self-healing bug fixes (Sep 2025).
+*   [Augment Code](https://augmentcode.com/) - Enterprise semantic analysis for 400K+ files with ISO 42001 compliance (Jan 2026).
+*   [JetBrains AI Assistant](https://jetbrains.com/ai) - AST-aware code understanding with semantic refactoring in JetBrains IDEs (2026).
+*   [Builder.io AI](https://builder.io/) - Design-to-code from Figma with design system enforcement and Jira/Slack integration.
 *   [Superpowers](https://github.com/obra/superpowers) - Agentic skills framework & software development methodology for coding agents.
 *   [Anthropic Skills](https://github.com/anthropics/skills) - Official reference collection of agent skills (computer use, bash, etc.).
 *   [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) - Official reference servers for safe LLM access to local resources.
